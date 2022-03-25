@@ -16,7 +16,6 @@
       </ul>
     </nav>
     <button>Botton</button>
-    <!-- main -->
     <main>
       <router-view></router-view>
     </main>
