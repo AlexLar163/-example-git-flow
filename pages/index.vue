@@ -16,7 +16,10 @@
       </ul>
     </nav>
     <button>Botton</button>
-    <Tutorial />
+    <!-- main -->
+    <main>
+      <router-view></router-view>
+    </main>
   </div>
 </template>
 
