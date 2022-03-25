@@ -16,7 +16,9 @@
       </ul>
     </nav>
     <button>Botton</button>
-    <Tutorial />
+    <main>
+      <router-view></router-view>
+    </main>
   </div>
 </template>
 
