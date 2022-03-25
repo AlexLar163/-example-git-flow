@@ -19,6 +19,10 @@
     <main>
       <router-view></router-view>
     </main>
+
+    <footer>
+      <p>Este es un footer</p>
+    </footer>
   </div>
 </template>
 
